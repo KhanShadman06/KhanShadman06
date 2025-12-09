@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a</h1>
 <h3 align="center"> FullStack Developer</h3>
 
-![trophy](https://github-trophies.vercel.app/?username=KhanShadman06&theme=flat)
+![trophy](https://github-trophies.vercel.app/?username=KhanShadman06&theme=flat&exclude=LongTimeUser,NewUser,AchieveSSSRank,AncientUser)
 
 
 - 📫 How to reach me **khanshadman35@gmail.com**
