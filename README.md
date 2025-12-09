@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a</h1>
 <h3 align="center"> FullStack Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khanshadman06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-trophies.vercel.app/?username=KhanShadman06&theme=onedark)
 
 
 - 📫 How to reach me **khanshadman35@gmail.com**
