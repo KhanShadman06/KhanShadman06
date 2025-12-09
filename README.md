@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a</h1>
 <h3 align="center"> FullStack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanshadman06"-ma&theme=gruvbox alt="khanshadman06" /></a> </p>
-
 - 📫 How to reach me **khanshadman35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
